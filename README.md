@@ -16,3 +16,5 @@ To know about what is kNN go to [KNN machine learning](http://scikit-learn.org/s
 2.   Each image is a 28 by 28 pixel square (784 pixels total). A standard spit of the dataset is used to evaluate and compare models, where 60,000 images are used to train a model and a separate set of 10,000 images are used to test it.
      It is a digit recognition task. As such there are 10 digits (0 to 9) or 10 classes to predict. Results are reported using prediction error, which is nothing more than the inverted classification accuracy.
 3.   The given result is shown in a form of confusion matrix . To know what a confusion matrix is and how to implement it [Confusion Matrix](http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)
+## your output is shown in given format where diagonals of matrix shows the accuracy
+  
