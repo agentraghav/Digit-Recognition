@@ -17,4 +17,9 @@ To know about what is kNN go to [KNN machine learning](http://scikit-learn.org/s
      It is a digit recognition task. As such there are 10 digits (0 to 9) or 10 classes to predict. Results are reported using prediction error, which is nothing more than the inverted classification accuracy.
 3.   The given result is shown in a form of confusion matrix . To know what a confusion matrix is and how to implement it [Confusion Matrix](http://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)
 ## your output is shown in given format where diagonals of matrix shows the accuracy
+  ![screenshot_2018-09-11 knn digit recognition 2](https://user-images.githubusercontent.com/35917821/45347389-99e86b80-b5c9-11e8-9edb-b9c786ae8687.png)
   
+4.   In this datasets we have checked for digit 2,3 and 8 and predicted their result
+5.   This also shows the images that are miss readed as 3 instead they are 8
+
+##  the given image shows the images that are miss predicted as 3 instead of 8 
