@@ -1,4 +1,4 @@
-9# hand_digit_recognition
+# hand_digit_recognition
 In this project we have with the help of knn machine learning classify the hand written digits from MNIST database.
 To know about what is kNN go to [KNN machine learning](http://scikit-learn.org/stable/modules/neighbors.html)
 
