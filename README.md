@@ -23,3 +23,4 @@ To know about what is kNN go to [KNN machine learning](http://scikit-learn.org/s
 5.   This also shows the images that are miss readed as 3 instead they are 8
 
 ##  the given image shows the images that are miss predicted as 3 instead of 8 
+  ![screenshot_2018-09-11 knn digit recognition 1](https://user-images.githubusercontent.com/35917821/45347796-8b4e8400-b5ca-11e8-95fd-c451525fc943.png)
